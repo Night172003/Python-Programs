@@ -1,0 +1,8 @@
+CREATE TABLE inventory (
+    product_id   INTEGER PRIMARY KEY AUTOINCREMENT,
+    product_name TEXT,
+    product_cat  TEXT,
+    stock        INTEGER,
+    cost_price   REAL,
+    mrp          REAL  
+);

@@ -1,0 +1,20 @@
+product_id,product_name,product_cat,stock,mrp,cost_price
+10241, Front with PUP Logo Hood,Hoodie ,50,500,300
+10242, B&F With PUP Logo Hood,Hoodie ,50,500,300
+10243,Front with PUP Logo Jacket,Bomber Jacket ,20,750,450
+10244, B&F With PUP Logo Jacket,Bomber Jacket ,20,750,450
+10245, Front with PUP Logo Shirt,TShirt ,80,350,250
+10246, B&F With PUP Logo Shirt,TShirt ,80,350,250
+10247,Pylon Logo,TShirt ,30,350,250
+10248,Design 1 Tote,Tote Bag,15,100,50
+10249,Design 2 Tote,Tote Bag,15,100,50
+10250,Iska,ID Lace,60,80,45
+10251,Isko,ID Lace,60,80,45
+10252,Red,Cap,10,250,100
+10253,White,Cap,10,250,100
+10254,Black ,Cap,10,250,100
+10255,Design 1 Wallet,Wallet,21,100,50
+10256,Design 2 Wallet,Wallet,21,100,50
+10257,Design 3 Wallet,Wallet,21,100,50
+10258,Design 1 Keychain,Keychain,50,35,15
+10259,Design 2 Keychain,Keychain,50,35,15

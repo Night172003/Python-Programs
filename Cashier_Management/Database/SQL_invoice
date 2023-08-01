@@ -1,0 +1,10 @@
+CREATE TABLE bill (
+    bill_no       TEXT NOT NULL,
+    date          TEXT NOT NULL,
+    customer_name TEXT NOT NULL,
+    customer_no   TEXT NOT NULL,
+    bill_details  TEXT,
+    PRIMARY KEY (
+        bill_no
+    )
+);
